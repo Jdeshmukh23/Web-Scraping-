@@ -3,5 +3,11 @@
 * Web scraping helps collect such unstructured data and store it in a structured form. There are different ways to scrape websites such as online Services, APIs, or writing your own code. 
 * In this project, we’ll see how to scrape data with python
 # Objective
-1. The objective of this project is to extract job postings and related information about that posting from online job portal. 
-2. The projecct uses python as a scripting language and stores data in excel csv format.
+1.The objective of this project is to extract job postings and related information about that posting from online job portal. 
+2.The projecct uses python as a scripting language and stores data in excel csv format.
+# Steps to follow 
+1.Identify the URL
+2.Finalise the data to be extracted
+3.write the script
+4.Run the script and extract the data
+5.storage of data in desired format
