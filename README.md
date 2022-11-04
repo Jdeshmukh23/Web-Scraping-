@@ -11,3 +11,5 @@
 3. write the script
 4. Run the script and extract the data
 5. storage of data in desired format
+# Expected Output 
+* The jobs scraped from above script are stored in csv file named scraped_jobs.csv. 
